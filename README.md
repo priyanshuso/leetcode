@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/priyanshuso/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/priyanshuso/leetcode/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshuso/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshuso/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/priyanshuso/leetcode/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/priyanshuso/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/priyanshuso/leetcode/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshuso/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/priyanshuso/leetcode/tree/master/0877-stone-game) |
@@ -70,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/priyanshuso/leetcode/tree/master/2965-find-missing-and-repeated-values) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/priyanshuso/leetcode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
