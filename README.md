@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshuso/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/priyanshuso/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/priyanshuso/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/priyanshuso/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/priyanshuso/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/priyanshuso/leetcode/tree/master/0217-contains-duplicate) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/priyanshuso/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2965-find-missing-and-repeated-values](https://github.com/priyanshuso/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
 |  |
