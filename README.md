@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/priyanshuso/leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/priyanshuso/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/priyanshuso/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/priyanshuso/leetcode/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshuso/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshuso/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/priyanshuso/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/priyanshuso/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/priyanshuso/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/priyanshuso/leetcode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/priyanshuso/leetcode/tree/master/0443-string-compression) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/priyanshuso/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/priyanshuso/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/priyanshuso/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/priyanshuso/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/priyanshuso/leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/priyanshuso/leetcode/tree/master/0242-valid-anagram) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/priyanshuso/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2965-find-missing-and-repeated-values](https://github.com/priyanshuso/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Dynamic Programming
