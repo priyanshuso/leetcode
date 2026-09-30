@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/priyanshuso/leetcode/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/priyanshuso/leetcode/tree/master/0443-string-compression) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/priyanshuso/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/priyanshuso/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/priyanshuso/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -146,4 +147,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/priyanshuso/leetcode/tree/master/0287-find-the-duplicate-number) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/priyanshuso/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Simulation
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/priyanshuso/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
