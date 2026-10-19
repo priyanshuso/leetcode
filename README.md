@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/priyanshuso/leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/priyanshuso/leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/priyanshuso/leetcode/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshuso/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/priyanshuso/leetcode/tree/master/0877-stone-game) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/priyanshuso/leetcode/tree/master/0001-two-sum) |
 | [0016-3sum-closest](https://github.com/priyanshuso/leetcode/tree/master/0016-3sum-closest) |
+| [0048-rotate-image](https://github.com/priyanshuso/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/priyanshuso/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/priyanshuso/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/priyanshuso/leetcode/tree/master/0056-merge-intervals) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/priyanshuso/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/priyanshuso/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanshuso/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/priyanshuso/leetcode/tree/master/2965-find-missing-and-repeated-values) |
