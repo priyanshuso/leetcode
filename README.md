@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/priyanshuso/leetcode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/priyanshuso/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/priyanshuso/leetcode/tree/master/0567-permutation-in-string) |
+| [1768-merge-strings-alternately](https://github.com/priyanshuso/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/priyanshuso/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/priyanshuso/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/priyanshuso/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/priyanshuso/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/priyanshuso/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/priyanshuso/leetcode/tree/master/0567-permutation-in-string) |
+| [1768-merge-strings-alternately](https://github.com/priyanshuso/leetcode/tree/master/1768-merge-strings-alternately) |
 ## Quicksort
 |  |
 | ------- |
