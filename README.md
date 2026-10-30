@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/priyanshuso/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0877-stone-game](https://github.com/priyanshuso/leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/priyanshuso/leetcode/tree/master/0905-sort-array-by-parity) |
+| [1004-max-consecutive-ones-iii](https://github.com/priyanshuso/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/priyanshuso/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshuso/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshuso/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/priyanshuso/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/priyanshuso/leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/priyanshuso/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/priyanshuso/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyanshuso/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/priyanshuso/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Binary Search
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/priyanshuso/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/priyanshuso/leetcode/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/priyanshuso/leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [1004-max-consecutive-ones-iii](https://github.com/priyanshuso/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/priyanshuso/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/priyanshuso/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshuso/leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/priyanshuso/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
