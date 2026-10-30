@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/priyanshuso/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/priyanshuso/leetcode/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/priyanshuso/leetcode/tree/master/0257-binary-tree-paths) |
+| [0345-reverse-vowels-of-a-string](https://github.com/priyanshuso/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/priyanshuso/leetcode/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/priyanshuso/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0567-permutation-in-string](https://github.com/priyanshuso/leetcode/tree/master/0567-permutation-in-string) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/priyanshuso/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/priyanshuso/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/priyanshuso/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/priyanshuso/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/priyanshuso/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/priyanshuso/leetcode/tree/master/0567-permutation-in-string) |
 | [0905-sort-array-by-parity](https://github.com/priyanshuso/leetcode/tree/master/0905-sort-array-by-parity) |
