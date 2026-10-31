@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/priyanshuso/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/priyanshuso/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshuso/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/priyanshuso/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/priyanshuso/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/priyanshuso/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/priyanshuso/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/priyanshuso/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshuso/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0877-stone-game](https://github.com/priyanshuso/leetcode/tree/master/0877-stone-game) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/priyanshuso/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Game Theory
 |  |
 | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/priyanshuso/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanshuso/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/priyanshuso/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/priyanshuso/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/priyanshuso/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Binary Search
 |  |
