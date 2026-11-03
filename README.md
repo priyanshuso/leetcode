@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/priyanshuso/leetcode/tree/master/0877-stone-game) |
 | [0905-sort-array-by-parity](https://github.com/priyanshuso/leetcode/tree/master/0905-sort-array-by-parity) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanshuso/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/priyanshuso/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/priyanshuso/leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/priyanshuso/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/priyanshuso/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/priyanshuso/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/priyanshuso/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanshuso/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/priyanshuso/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/priyanshuso/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Two Pointers
 |  |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/priyanshuso/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/priyanshuso/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanshuso/leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/priyanshuso/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/priyanshuso/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/priyanshuso/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Bit Manipulation
