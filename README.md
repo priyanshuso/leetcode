@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/priyanshuso/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0287-find-the-duplicate-number](https://github.com/priyanshuso/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/priyanshuso/leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [0413-arithmetic-slices](https://github.com/priyanshuso/leetcode/tree/master/0413-arithmetic-slices) |
 | [0436-find-right-interval](https://github.com/priyanshuso/leetcode/tree/master/0436-find-right-interval) |
 | [0605-can-place-flowers](https://github.com/priyanshuso/leetcode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/priyanshuso/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/priyanshuso/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/priyanshuso/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0413-arithmetic-slices](https://github.com/priyanshuso/leetcode/tree/master/0413-arithmetic-slices) |
 | [0877-stone-game](https://github.com/priyanshuso/leetcode/tree/master/0877-stone-game) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/priyanshuso/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Game Theory
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/priyanshuso/leetcode/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/priyanshuso/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/priyanshuso/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/priyanshuso/leetcode/tree/master/0413-arithmetic-slices) |
 | [0567-permutation-in-string](https://github.com/priyanshuso/leetcode/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/priyanshuso/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/priyanshuso/leetcode/tree/master/1004-max-consecutive-ones-iii) |
